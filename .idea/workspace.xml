@@ -1,10 +1,388 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="268daf83-0310-4dce-810a-430648d58a0e" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NewTrends.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="268daf83-0310-4dce-810a-430648d58a0e" name="默认的" comment="新风首次提交">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Files/1.0.0.1/flashapp.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Files/1.0.0.2/AirMonitoring.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Antlr3.Runtime.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Antlr3.Runtime.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/EntityFramework.SqlServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.Agent.Intercept.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.DependencyCollector.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.PerfCounterCollector.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.ServerTelemetryChannel.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.Web.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.WindowsServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.ApplicationInsights.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Host.SystemWeb.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Cookies.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Facebook.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Google.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.MicrosoftAccount.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.OAuth.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Twitter.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Web.Infrastructure.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/NewTrendAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/NewTrendAPI.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Net.Http.Formatting.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Helpers.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.WebHost.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Mvc.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Optimization.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.Deployment.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/WebGrease.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.CodeAnalysis.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/System.Collections.Immutable.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/System.Reflection.Metadata.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/VBCSCompiler.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/csc.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/vbc.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/EntityFramework.SqlServer.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/EntityFramework.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.AspNet.Identity.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.AspNet.Identity.EntityFramework.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.AspNet.Identity.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Host.SystemWeb.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Security.Facebook.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Security.Google.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Security.MicrosoftAccount.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Security.Twitter.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.Security.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/Microsoft.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Net.Http.Formatting.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Helpers.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Http.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Http.WebHost.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Http.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Mvc.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Optimization.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.Razor.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.WebPages.Razor.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/zh-Hans/System.Web.WebPages.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/NewTrendAPI.csprojResolveAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/NewTrendAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/NewTrendAPI.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/NewTrendAPI.csprojResolveAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/NewTrendAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/NewTrendAPI.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Antlr3.Runtime.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/EntityFramework.SqlServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.Agent.Intercept.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.DependencyCollector.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.PerfCounterCollector.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.ServerTelemetryChannel.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.Web.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AI.WindowsServer.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.ApplicationInsights.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AspNet.Identity.Core.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AspNet.Identity.EntityFramework.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.AspNet.Identity.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Host.SystemWeb.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.Cookies.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.Facebook.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.Google.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.MicrosoftAccount.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.OAuth.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.Twitter.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.Security.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Microsoft.Web.Infrastructure.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/NewTrendAPI.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Newtonsoft.Json.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Net.Http.Formatting.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Helpers.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Http.Owin.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Http.WebHost.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Http.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Mvc.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Optimization.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.Deployment.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.Razor.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/System.Web.WebPages.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/WebGrease.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CodeAnalysis.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/System.Collections.Immutable.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/System.Reflection.Metadata.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/VBCSCompiler.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/csc.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/vbc.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/EntityFramework.SqlServer.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/EntityFramework.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.AspNet.Identity.Core.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.AspNet.Identity.EntityFramework.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.AspNet.Identity.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Host.SystemWeb.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Security.Facebook.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Security.Google.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Security.MicrosoftAccount.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Security.Twitter.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.Security.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/Microsoft.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Net.Http.Formatting.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Helpers.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Http.Owin.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Http.WebHost.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Http.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Mvc.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Optimization.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.Razor.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.WebPages.Razor.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/zh-Hans/System.Web.WebPages.resources.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrend.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/BundleConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/FilterConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/IdentityConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/RouteConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/Startup.Auth.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/App_Start/WebApiConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/ApplicationInsights.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ApiDescriptionExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/App_Start/HelpPageConfig.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Controllers/HelpController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/HelpPage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/HelpPageAreaRegistration.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/HelpPageConfigurationExtensions.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/CollectionModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ComplexTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/DictionaryModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/EnumTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/EnumValueDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/IModelDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/KeyValuePairModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ModelDescriptionGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ModelNameAttribute.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ModelNameHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ParameterAnnotation.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/ParameterDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/ModelDescriptions/SimpleTypeModelDescription.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Models/HelpPageApiModel.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/HelpPageSampleGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/HelpPageSampleKey.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/ImageSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/InvalidSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/ObjectGenerator.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/SampleDirection.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/SampleGeneration/TextSample.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/Api.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Help/ResourceModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Areas/HelpPage/XmlDocumentationProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Config/config_load.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Content/Site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Content/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Content/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/AccountController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/ContactController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/DownloadController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/HomeController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/JsApiController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/ReadConfigController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/ValuesController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Controllers/WSChatController.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Global.asax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Global.asax.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/AccountBindingModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/AccountViewModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/BasicApi.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/CRC3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/CommonMethod.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/Contact.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/IdentityModels.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Models/InIFiles.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/NewTrendAPI.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/NewTrendAPI.csproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Project_Readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Properties/PublishProfiles/NewTrendAPI.pubxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Properties/PublishProfiles/NewTrendAPI.pubxml.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Providers/ApplicationOAuthProvider.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Results/ChallengeResult.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/_references.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/ai.0.15.0-build58334.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/ai.0.15.0-build58334.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery-1.10.2.intellisense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery.validate-vsdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Scripts/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Startup.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Views/Home/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Views/Shared/Error.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Web.Debug.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Web.Release.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/ApplicationInsights.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/EntityFramework.SqlServer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.DependencyCollector.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.ServerTelemetryChannel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.Web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AI.WindowsServer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.ApplicationInsights.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.Core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.EntityFramework.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.AspNet.Identity.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Host.SystemWeb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Cookies.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Facebook.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Google.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.MicrosoftAccount.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.OAuth.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.Twitter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.Security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Microsoft.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/NewTrendAPI.dll.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/Newtonsoft.Json.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Net.Http.Formatting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Helpers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.Owin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.WebHost.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Http.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Optimization.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.Deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.Razor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/System.Web.WebPages.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.CSharp.Core.targets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/Microsoft.VisualBasic.Core.targets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/bin/roslyn/VBCSCompiler.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/NewTrendAPI.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/NewTrendAPI.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/ApplicationInsights.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/HelpPage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Api.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Help/ResourceModel.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Areas/HelpPage/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Config/config_load.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Content/Site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Content/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Content/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Global.asax" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/_references.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/ai.0.15.0-build58334.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/ai.0.15.0-build58334.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery.validate.unobtrusive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/jquery.validate.unobtrusive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/modernizr-2.6.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Scripts/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Views/Home/Index.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Views/Shared/Error.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Views/Shared/_Layout.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Views/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Views/_ViewStart.cshtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/ApplicationInsights.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.CSharp.Core.targets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/Microsoft.VisualBasic.Core.targets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/bin/roslyn/VBCSCompiler.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/Package/PackageTmp/packages.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TransformWebConfig/assist/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TransformWebConfig/original/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/TransformWebConfig/transformed/Web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/obj/Release/_WPPLastBuildInfo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewTrendAPI/packages.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +397,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -50,11 +431,44 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewTrends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewTrends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewTrends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewTrends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewTrendAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\我的工作\测试使用\NewTrend\NewTrends" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,7 +554,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496395162307</updated>
-      <workItem from="1496395163815" duration="106000" />
+      <workItem from="1496395163815" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="新风首次提交">
       <created>1496395255352</created>
@@ -149,11 +563,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496395255352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新风首次提交">
+      <created>1496395277660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496395277660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106000" />
+    <option name="totallyTimeSpent" value="311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
